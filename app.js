@@ -6,3 +6,4 @@ console.log("La suma es: " + (5+10));
 
 let fecha = moment().format("LL");
 console.log("Y la fecha es: ", fecha);
+console.log("Tarea hecha");
